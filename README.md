@@ -1,2 +1,2 @@
-# Ken_Portfolio
-A data science portfolio of Ken Jee.
+# DS_Portfolio
+A data science portfolio of Darya Sikerina.
